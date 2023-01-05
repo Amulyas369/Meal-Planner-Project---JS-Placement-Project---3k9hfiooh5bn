@@ -88,7 +88,7 @@ function create_cards(mealData)
                  <h2 class="heading">${e}</h2>
                  <div class="card_body" style="background-image: url(${images_links[index]});">
                  <div class="card__action">
-                    <h2>Meal ${index+1}</h2>
+                    <h2>Meal ${mealsArray[index].title}</h2>
                     <h3>Calories - ${calories.toFixed(0)}</h3>
                     <button onclick="getRecipe(${mealsArray[index].id})" class="recipies_btn">GET RECIPE</button>
                  </div>
