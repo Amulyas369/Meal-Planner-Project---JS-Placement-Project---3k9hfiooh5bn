@@ -64,7 +64,7 @@ body{
 }
 .inputfield{
     width: 200px;
-    height: 2.2rem;
+    height: 2rem;
     padding: .4rem;
     /* border: 3px solid #fff; */
     border-radius: 11px;
@@ -138,8 +138,8 @@ background-size: cover;
 }
 .card_body{
     
-    height: 400px;
-    width: 250px;
+    height: 350px;
+    width: 220px;
     background-repeat: no-repeat;
     background-size: cover;
     /* margin-right: ; */
@@ -160,7 +160,7 @@ background-size: cover;
 }
 .heading{
     margin: 1rem;
-    font-size: 2rem;
+    font-size: 1.2rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .01rem;
@@ -190,7 +190,7 @@ table{
     opacity: .6;
     color: #fff;
     background-blend-mode: multiply;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-top: 2rem;
     font-weight: 600;
     padding: .5rem;
@@ -208,10 +208,10 @@ th{
     left: 50%;
     transform: translate(-50% ,-50%)scale(1);
     background-color: #ffffff;
-    height: 520px;
-    width: 380px;
-    line-height: 2rem;
-    padding: 2rem;
+    /* height: 420px; */
+    width: 350px;
+    line-height: 1rem;
+    padding: 1rem;
     border-radius: 11px;
     transition: top 0ms ease-in-out 200ms,
     opacity 200ms ease-in-out 0ms,

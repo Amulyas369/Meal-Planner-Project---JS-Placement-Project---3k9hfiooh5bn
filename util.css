@@ -51,7 +51,7 @@ label span{
 }
 .close{
     position: relative;
-    top: -30px;
+    top: -10px;
     right: -310px;
     font-size: 1.8rem;
     color: #111;
